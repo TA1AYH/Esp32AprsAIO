@@ -5,6 +5,8 @@ you have to connect your external GPS TX & RX pins to RX2 & TX2 pins of ESP32 WR
 Kicad design builded with great helps of my friend TA2PLT.
 
 73's
+
+
 ![Kicad_top](https://user-images.githubusercontent.com/5972349/231215530-2b1eae11-22d2-4504-90fb-feca52ab32b5.jpg)
 ![Kicad_bottom](https://user-images.githubusercontent.com/5972349/231215298-0ae98d42-5ba4-438f-aa29-f8314c658be5.jpg)
 ![4](https://user-images.githubusercontent.com/5972349/231215613-60669561-9bbf-4b13-81a7-5af68efcc736.jpg)
