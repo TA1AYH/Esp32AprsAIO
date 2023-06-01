@@ -6,7 +6,7 @@ Kicad design builded with great helps of my friend TA2PLT.
 
 73's
 
-
-![1](https://user-images.githubusercontent.com/5972349/231215613-60669561-9bbf-4b13-81a7-5af68efcc736.jpg)
-![2](https://user-images.githubusercontent.com/5972349/231215648-887fc2db-abe2-49da-81ad-b61f195978ca.jpg)
+![1](https://github.com/TA1AYH/Esp32AprsAIO/assets/5972349/486b29ca-82ea-4ab2-98de-4e9de25e7821)
+![2](https://github.com/TA1AYH/Esp32AprsAIO/assets/5972349/4e80daf0-b42b-486f-a7ff-f1c4fe7bd661)
+![3](https://github.com/TA1AYH/Esp32AprsAIO/assets/5972349/9c2bbc25-b001-4a8e-a9b5-1d0c27acd8a8)
 ![3](https://user-images.githubusercontent.com/5972349/231215672-749dba7e-3bdb-455b-af4c-08ce5925c0d0.jpg)
