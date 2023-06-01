@@ -1,8 +1,23 @@
-# ESP32 APRS All in One
-Your ESP32 device works as a tracker (without internet) or as a mobile Aprs tracker application (if you share your mobile internet with ESP32).
-You have to connect your external GPS TX & RX pins to RX2 & TX2 pins of ESP32 WROOM 32D and supply power of Gps with 3.3v pin and GND of ESP32.
+# ESP32 APRS All in One 
 
-Kicad design builded with great helps of my friend TA2PLT.
+Firmware v1.1 (on the kitchen)
+Additions to v1.0
+- Buzzer function will be active 
+- You can select a friend to activate buzzer with he/she's APRS beacon
+- Smart menu will be available on the screen
+- up-down-ok buttons will control the smart menu
+
+Firmware v1.0 (available)
+Below functions are optional to use
+- APRS Tracker with Radio TX (with GPS Module)
+- APRS Tracker direct to APRS-IS with WiFi (NO Radio TX), (with GPS Module)
+- APRS iGate (with Wifi connection, no need GPS module)
+- APRS Digipeater ( Manually ON-OFF and if you choose it on it works Automatically if there is no internet)
+- While on APRS tracker mode also you can use the module as iGate to help other stations to reach the APRS-IS server (with WiFi and GPS module)
+
+External GPS TX & RX pins to GPS RX & TX pins of APRS AIO v1.1
+
+Kicad design builded by TA1AYH & TA2PLT
 
 73's
 
